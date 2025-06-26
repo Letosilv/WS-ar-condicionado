@@ -28,12 +28,12 @@ nav {
 }
 
 .logo span {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .logo-img {
-  height: 200px;  /* altura desejada */
-  width: 500px;   /* largura desejada */
+  height: 300px;  /* altura desejada */
+  width: 600px;   /* largura desejada */
   object-fit: contain; /* garante que a imagem mantenha a proporção */
 }
 
