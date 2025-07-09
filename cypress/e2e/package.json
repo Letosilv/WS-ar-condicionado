@@ -1,0 +1,11 @@
+{
+  "name": "ws-ar-condicionado-cypress",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados com Cypress para o site WS Ar Condicionado.",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
